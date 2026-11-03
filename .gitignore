@@ -1,0 +1,5 @@
+.vscode
+*.asc
+*.json
+*.bin
+*.vcd
