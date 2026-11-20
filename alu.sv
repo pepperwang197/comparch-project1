@@ -31,3 +31,4 @@ module alu (
             3'b011:
                 result = unsigned'(op1) < op2;
     end
+endmodule
